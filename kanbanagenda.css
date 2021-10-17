@@ -3,8 +3,8 @@
 }
 
 /* Highlight working hours - replace 10 and 20 with your start/end times + 3 */
-.roam-article > div > div > div[data-path-page-links*="Daily agenda"] .kanban-column-container > .kanban-column:nth-of-type(n+7):nth-of-type(-n+14),
-#right-sidebar div[data-path-page-links*="Daily agenda"] .kanban-column-container > .kanban-column:nth-of-type(n+7):nth-of-type(-n+14) {
+.roam-article > div > div > div[data-path-page-links*="Daily agenda"] .kanban-column-container > .kanban-column:nth-of-type(n+7):nth-of-type(-n+16),
+#right-sidebar div[data-path-page-links*="Daily agenda"] .kanban-column-container > .kanban-column:nth-of-type(n+7):nth-of-type(-n+16) {
   background-color: #80BFE6;
 }
 
